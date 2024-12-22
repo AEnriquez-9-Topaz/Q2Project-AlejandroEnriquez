@@ -1,3 +1,8 @@
+Note: I chose to use different files for each webpage. Therefore, I just used index.html for each html file
+
+
+
+
 Q2 PROJECT: RECIPE SHARING WEBSITE
 
 OBJECTIVE: Create a responsive recipe-sharing website where users can explore, view, and submit recipes.

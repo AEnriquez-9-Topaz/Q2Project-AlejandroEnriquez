@@ -1,0 +1,258 @@
+ {
+		margin: 0px;
+		padding: 0px;
+
+	}
+					
+
+html, body {
+			background-image: url(https://png.pngtree.com/thumb_back/fh260/back_our/20190617/ourmid/pngtree-cute-children-s-drawing-style-recipe-book-album-board-vector-background-image_129990.jpg);
+			background-position: center;
+		  background-repeat: repeat;
+		  background-size: cover;
+		  margin: 0;
+		  height: 100%;
+		  text-align: center;
+
+		}
+
+
+.left {
+	text-align: left;
+
+}
+
+
+.topleft {
+
+	text-align: left;
+	font-family: Akaya Kanadaka;
+	color: black;
+	margin: 25px;
+}
+
+.nega {
+
+	width: 85px;
+	margin-top: -30px;
+}
+ 
+
+.just {
+	text-align: justify;
+}
+
+.rec {
+	border-top: 10px 	solid black;
+}
+
+
+a:link {
+	color: white;
+	text-decoration: none;
+}
+
+a:visited {
+	color: ghostwhite;
+	text-decoration: none;
+}
+
+.nav-tabs {
+	font-family: Delius;
+	font-size: 16px;
+}
+
+.nav-tabs .nav-link:hover {
+	background-color: ghostwhite;
+	color: black;
+	
+}
+
+
+.navbar {
+  margin: 0 !important;
+  padding: 20 !important;
+}
+
+.sc {
+	font-family: Delius;
+}
+
+
+.full {
+	height: 100vh;
+}
+
+
+.vi:hover {
+
+	animation: tada;
+	animation-duration: 1.5s;
+
+}
+
+.He {
+	padding-bottom: 10px;
+	vertical-align: middle;
+	background-color: #DC901E;
+}
+
+
+
+.footer {
+	font-family: Charm;
+	bottom: 0;
+	vertical-align: middle;
+	position: fixed;
+	width: 100%;
+	text-align: center;
+	background-color: #DC901E;
+	color: ghostwhite;
+	height: 45px;
+
+}
+
+.News {
+	background-color: rgb(100,151,177, 0.9) ;
+	padding:20px;
+	border-radius: 10px;
+	color: black;
+	color: rgb(19, 19, 70) ;
+}
+.He .search-container input {
+  margin-top: 8px;
+  background: #DDD;
+  font-size: 17px;
+  border: 1px solid black;
+  cursor: pointer;
+ 
+}
+
+
+.carousel-inner { 
+
+	border: 5px solid #C1121F;
+
+}
+
+.carousel-caption {
+	background-color: rgb(0,0,0, 0.7);
+	font-family: Delius;
+}
+
+.cen {
+	text-align: center;
+
+}
+
+
+
+.newsur {
+
+	text-align: center;
+	color: white;
+	background-color: rgb(106, 4, 15, 0.83);
+	font-family: Newsreader;
+	height: 100%;
+	padding-bottom: px;
+	align-items: stretch;
+
+}
+
+.font {
+	font-family: Newsreader;
+}
+
+
+
+a.cemi:link { 
+	color: #F9D43B;
+	font-family: Sour Gummy;
+}
+a.cemi:visited { 
+	color:  #F9D43B; 
+	font-family: Sour Gummy;
+}
+
+.top {
+	text-align: center;
+	font-family: Sour Gummy;
+	color: #F9D43B;
+	background-color: rgb(106, 4, 15, 0.83);
+	margin-left: 25%;
+	margin-right: 25%;
+	padding: 20px;
+}
+
+
+
+.smal {
+	width: 350px;
+	margin-top: -50px;
+}
+
+.for {
+	background-color: rgb(106, 4, 15, 0.83);
+	padding: 20px;
+	color: white;
+	font-family: newsreader;
+	margin: 100px;
+	margin-top: 0px;
+
+}
+
+.jack {
+	background-color: rgb(205, 132, 23, 0.87);
+	padding: 20px;
+	color: black;
+}
+
+.black {
+	color: black;
+	font-family: Newsreader;
+}
+
+
+.wnhite {
+	color: #F9D43B;
+	font-family: Delius	;
+	text-decoration: underline;
+}
+
+.fil {
+	color: #F9D43B;
+	font-family: Sour Gummy;
+}
+
+.ats {
+							
+			width: 500px;
+			display: inline;
+			justify-content: space-evenly;
+
+}
+
+.containerto {
+		display: inline-flex;
+		margin-right: 2%;
+		margin-left: 2%;
+
+				}
+
+.vi {
+	background-color: #FDF0D5;
+	border: 5px solid #C1121F;
+	border-radius: 10px;
+	margin: 10px;
+	color: black;
+	font-family: Delius;
+	
+}
+
+.non-impo {
+	font-style: italic;
+	color: rgb(249, 245, 236, 0.8);
+}
+
+
+

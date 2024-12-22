@@ -1,4 +1,4 @@
-Note: I chose to use different files for each webpage. Therefore, I just used index.html for each html file
+Note: I chose to use different files for each html, to make the organization easier personally. Therefore, I just used index.html for each html file
 
 
 
